@@ -1,5 +1,7 @@
 # project-1
 for this app we need 
+
+
 User accounts: Allow users to sign up/log in and create accounts. Users should be able to post tweets, follow other users, see tweets from users they follow in their timeline.
 Posting tweets: Users should be able to post tweets up to 280 characters. Tweets should include the username, date/time posted, and content.
 Following other users: Users should be able to follow other users. A user's timeline should include tweets from the users that they follow. Users should be able to unfollow other users to stop seeing their tweets.
